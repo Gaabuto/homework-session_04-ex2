@@ -1,2 +1,2 @@
 # Git Merge Conflict Demo
-Status: initial version
+Status: updated on main branch
